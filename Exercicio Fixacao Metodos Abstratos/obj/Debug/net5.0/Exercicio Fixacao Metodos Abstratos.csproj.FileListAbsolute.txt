@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.exe
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.deps.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\ref\Exercicio Fixacao Metodos Abstratos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\bin\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\ref\Exercicio Fixacao Metodos Abstratos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Metodos Abstratos\Exercicio Fixacao Metodos Abstratos\obj\Debug\net5.0\Exercicio Fixacao Metodos Abstratos.genruntimeconfig.cache
